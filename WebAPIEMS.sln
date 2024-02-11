@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EMS_Phase3_ FinalProject01", "WebAPIEMS\EMS_Phase3_ FinalProject01.csproj", "{C894E652-DFC0-4197-A062-AAB2A9CE8068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C894E652-DFC0-4197-A062-AAB2A9CE8068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C894E652-DFC0-4197-A062-AAB2A9CE8068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C894E652-DFC0-4197-A062-AAB2A9CE8068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C894E652-DFC0-4197-A062-AAB2A9CE8068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8789AA97-4E2F-48E9-AB9D-1FC886E8A8FE}
+	EndGlobalSection
+EndGlobal
